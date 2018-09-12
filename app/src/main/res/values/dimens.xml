@@ -1,0 +1,13 @@
+<resources>
+    <dimen name="activity_horizontal_margin">16sp</dimen>
+    <dimen name="activity_vertical_margin">16sp</dimen>
+
+    <dimen name="activityPadding">16sp</dimen>
+    <dimen name="placeholderImage">60sp</dimen>
+    <dimen name="placeholderTextHeight">16sp</dimen>
+    <dimen name="dimen_10">10sp</dimen>
+    <dimen name="dimen_20">20sp</dimen>
+    <dimen name="dimen_16">16sp</dimen>
+    <dimen name="dimen_30">30sp</dimen>
+    <dimen name="dimen_50">50sp</dimen>
+</resources>
